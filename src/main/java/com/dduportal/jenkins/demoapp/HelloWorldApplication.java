@@ -1,4 +1,4 @@
-package com.dduportal.jenkins.demoapp;
+apackage com.dduportal.jenkins.demoapp;
 
 import com.dduportal.jenkins.demoapp.health.TemplateHealthCheck;
 import com.dduportal.jenkins.demoapp.resources.HelloWorldResource;
